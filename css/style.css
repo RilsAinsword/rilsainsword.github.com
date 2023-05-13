@@ -1,0 +1,45 @@
+:: :root {
+    bg--primary : #005c00
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    min-height: 2000px;
+}
+
+nav {
+    background-color: rgb(5, 197, 133);
+}
+
+.jumbotron { 
+    padding-top: 6rem;
+    background-color: rgb(0, 228, 152);
+    margin-bottom: 5rem;
+}
+
+#project {
+    background-color: rgb(0, 228, 152);
+}
+
+.text1 a{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(76, 206, 163);
+}
+
+footer {
+    background-color: rgb(0, 228, 152);
+}
+
+footer a {
+    text-decoration: none;
+}   
+
+section {
+    padding-top: 6rem;
+}
+
